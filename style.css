@@ -1,0 +1,52 @@
+.container {
+  display: grid;
+  place-items: center;
+  background-color: #191919;
+}
+.container_2 {
+  color: #b8fff9;
+  display: grid;
+  place-items: center;
+  font-size: 5vw;
+  background-color: #191919;
+}
+h2 {
+  font-size: 4vw;
+  color: #b8fff9;
+}
+body {
+  background-color: black;
+}
+#input1 {
+  width: 50vw;
+  height: 5vh;
+  border-radius: 5rem;
+  text-align: center;
+  font-family: cursive;
+  background-color: gold;
+  color: rgb(0, 0, 0);
+  font-size: 2vw;
+}
+#input2 {
+  width: 50vw;
+  height: 5vh;
+  border-radius: 5rem;
+  text-align: center;
+  font-family: cursive;
+  background-color: gold;
+  font-size: 2vw;
+}
+#input3 {
+  width: 30vw;
+  height: 5vh;
+  border-radius: 5rem;
+  background-color: #495371;
+  border-top: 2px solid#b4cfb0;
+  border-right: 2px solid #b4cfb0;
+  border-left: 2px solid#b4cfb0;
+  border-bottom: 2px solid#b4cfb0;
+  color: white;
+}
+.txt {
+  color: white;
+}
